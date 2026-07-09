@@ -1,3 +1,2 @@
 python-telegram-bot
-selenium
-webdriver-manager
+playwright
