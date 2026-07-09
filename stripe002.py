@@ -4,7 +4,7 @@ from playwright.async_api import async_playwright
 import random
 import asyncio
 
-BOT_TOKEN = "SEU_TOKEN_AQUI"
+BOT_TOKEN = "S8806372148:AAG5KvpIAcO97IM-A00DfznguWu5eQ5qGp0"
 ADMIN_ID = 123456789   # Coloque seu ID aqui
 
 # ==================== PROXIES ====================
